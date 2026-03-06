@@ -1,2 +1,8 @@
 # localhost-todo-list
-Add projects and the tasks under the projects, pure JS based TODO list. Save data on browser localstorage
+
+- Add multiple projects.
+- Add the tasks under the projects.
+- Marked Tasks Done/Undone
+- Delete Project
+
+pure JS based TODO list. Save data on browser localstorage
