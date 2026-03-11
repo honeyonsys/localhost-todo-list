@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TodoPro</string>
+    <string name="title_activity_main">TodoPro</string>
+    <string name="package_name">com.honeyonsys.todopro</string>
+    <string name="custom_url_scheme">com.honeyonsys.todopro</string>
+</resources>
